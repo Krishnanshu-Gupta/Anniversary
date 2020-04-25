@@ -1,2 +1,2 @@
-# Birthday Card | Siddhant Sharma
-🎂 Responsive Birthday Card - Made with Jquery and CSS (Has many easter eggs too :-)
+# Anniversary Card
+🎂 Anniversary Card - Made with Jquery and CSS
